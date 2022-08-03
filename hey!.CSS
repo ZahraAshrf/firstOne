@@ -1,0 +1,13 @@
+body {
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-color: #f0eeee;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+
